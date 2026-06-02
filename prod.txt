@@ -21,7 +21,7 @@ spec:
       path: /test-vol
 
 
-	--mount source=vol1,destination=/vol1
+	
 
 *******************************************************************
 # 2. Create and Display HostPath
