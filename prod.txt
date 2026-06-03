@@ -21,7 +21,7 @@ spec:
       path: /test-vol
 
 
-	
+	Test sample file
 
 *******************************************************************
 # 2. Create and Display HostPath
